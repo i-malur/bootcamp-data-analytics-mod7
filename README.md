@@ -1,1 +1,1 @@
-# bootcamp-data-analytics-mod7
+# Bootcamp Data Analytics - módulo 07
